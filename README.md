@@ -15,4 +15,4 @@ Press the Start button. 🎬
 Match the bubbles 🟣 with the target number 🔢.
 Beat the clock and enjoy the celebratory animation when the timer runs out! 🎊
 🌐 Live Demo:
-Deployed via GitHub Pages 
+Deployed via GitHub Pages https://balu-palle.github.io/BubbleGame/
